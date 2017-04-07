@@ -24,7 +24,7 @@ Vous pourrez donc vous connecter à l'interface web avec le compte : **admin/cen
 
 .. note::
 
-    Pour des raisons de sécurité, il est recommandé de chnager ces deux mots de passe aprés l'installation
+    Pour des raisons de sécurité, il est recommandé de changer ces deux mots de passe aprés l'installation
 
 
 Collecteur
